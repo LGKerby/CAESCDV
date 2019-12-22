@@ -1,0 +1,72 @@
+.html{
+  height: 100%;
+  background-image: main_background;
+}
+.header {
+  text-align: center;
+  background-color: powderblue;
+}
+.navigation{
+  background-color: lightblue;
+  width: 20%;
+  height:950px;
+  float: left;
+  font-size: 18px;
+}
+.body{
+  max-width: 75%;
+  min-width: 1010px;
+  height:275px;
+  min-height: 275px;
+  margin-left: 25px;
+  margin-right: 5px;
+  padding: 5px;
+  text-align: left;
+  background-color: white;
+  float: right;
+}
+.main_body{
+  background-image: url("images/technology.jpg");
+  background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 1475px;
+  margin-left: 25px;
+}
+#wgm {
+  text-align: center;
+}
+#second_box{
+  margin-bottom: 25px;
+  height: 300px;
+  float: right;
+}
+#thrid_box{
+  margin-top: 25px;
+  height: 300px;
+  float: right;
+}
+#tech_1{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#tech_2{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#tech_3{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.profile_pic{
+  border: solid 2px;
+}
+.profile_text{
+  padding-left: 3px;
+  border: solid 2px;
+  margin-left: 5px;
+}
