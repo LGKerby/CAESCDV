@@ -21,7 +21,13 @@
   text-align: center;
   margin-left: 50px;
   float: right;
+  }
+
+.cole{
+  text-align: center;
+  float: right;
 }
+
 .body{
   max-width: 75%;
   min-width: 1010px;
