@@ -16,7 +16,13 @@
   height:950px;
   float: left;
   font-size: 18px;
+  margin-right: 20px;
 }
+
+#nav{
+  height: 1200px;
+}
+
 .members{
   text-align: center;
   margin-left: 50px;
@@ -24,6 +30,10 @@
 
 .cole{
   text-align: center;
+}
+
+.propa{
+  margin-left: auto;
 }
 
 .body{
