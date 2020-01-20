@@ -13,7 +13,7 @@
 .navigation{
   background-color: lightblue;
   width: 20%;
-  height:950px;
+  height:1020px;
   float: left;
   font-size: 18px;
   margin-right: 20px;
@@ -57,7 +57,7 @@
   margin: 0;
   padding: 0;
   height: 100%;
-  width: 1475px;
+  width: 1200px;
   margin-left: 25px;
 }
 
@@ -71,12 +71,12 @@
 }
 #second_box{
   margin-bottom: 25px;
-  height: 300px;
+  height: 325px;
   float: right;
 }
 #thrid_box{
   margin-top: 25px;
-  height: 300px;
+  height: 325px;
   float: right;
 }
 #tech_1{
