@@ -108,8 +108,9 @@
   font-size: 12px;
 }
 #caes_stratpng{
-  align-items: center;
+  border: 3px solid black;
 }
 #caes_strat_img{
   text-align: center;
+
 }
